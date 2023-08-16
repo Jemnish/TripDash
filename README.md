@@ -78,7 +78,7 @@ The Custom Navigation feature offers several benefits:
 - Users can search for available options based on their desired dates, location, preferences, and budget.
 - It provides a user-friendly interface where users can compare different options, such as prices, amenities, and customer reviews, to make informed decisions.
 
-## Contribuitior
+## Contribuitiors
 
 - Shankar Kumar Yadav ([@KryssNa](https://github.com/KryssNa))
 - Alekh Chaudhary ([@haxor09alert](https://github.com/haxor09alert))
